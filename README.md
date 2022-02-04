@@ -1,3 +1,7 @@
+*This repository is NOT official -- the original repository is located on GitLab at https://gitlab.com/initstring/passphrase-wordlist*
+
+*This repository is only a tribute*
+
 # Overview
 
 People think they are getting smarter by using passphrases. Let's prove them wrong!
